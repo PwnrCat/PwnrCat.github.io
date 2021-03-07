@@ -1,9 +1,10 @@
+html{background-color: #708090;}
 .Cat {
     font-size: 60px;
-    color:darkslateblue;
+    color:lightgrey;
 }
     
 .litteraly {
     font-size: 40px;
-    color:deepskyblue;
+    color:azure;
 }
